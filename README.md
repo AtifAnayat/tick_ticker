@@ -1,16 +1,32 @@
-# tick_ticker
+# ✅ TickTicker  
 
-A new Flutter project.
+A Flutter app for managing your daily **to-dos** and **notes** with built-in **local notifications** to remind you of important tasks. Stay productive, stay organized!  
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Overview  
+TickTickr helps you keep track of tasks and ideas.  
+Add quick notes, create task lists, mark items complete, and get notified with reminders — all in one place.  
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## ✨ Features  
+- 📝 Create, edit, and delete tasks  
+- ✅ Mark tasks as completed  
+- 📒 Write and organize personal notes  
+- 📅 Add due dates and reminders  
+- 🔔 **Local notifications** for important tasks  
+- 🔍 Search tasks and notes instantly  
+- 🌙 Light & Dark mode support  
+- 🎨 Clean and modern Flutter UI  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 🛠 Getting Started  
+
+### Clone the repository  
+```bash
+git clone https://github.com/AtifAnayat/tick_ticker.git
+cd tick_ticker
+flutter pub get
+flutter run
